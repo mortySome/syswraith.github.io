@@ -4,7 +4,7 @@ body {
 
 .repolink {
   text-decoration: none;
-  margin-left: 45%;
+  margin-left: 20px;
   margin-right: auto;
   margin-top: auto;
   margin-bottom: auto;
@@ -15,7 +15,7 @@ body {
 
 .repolink:hover {
   text-decoration: none;
-  margin-left: 30%;
+  margin-left: 15px;
   margin-right: auto;
   margin-top: auto;
   margin-bottom: auto;
