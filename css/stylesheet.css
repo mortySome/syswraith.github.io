@@ -1,4 +1,6 @@
-
+html {
+  background-color: #000000;
+}
 body {
   font-family: ocr-aregular;
   font-style: normal;
